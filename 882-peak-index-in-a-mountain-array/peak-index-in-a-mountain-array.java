@@ -16,5 +16,8 @@ class Solution {
             }
         }
         return ans;
+
+    // i could have also returned the start/end element directly after the loop as in the end,
+    // they both point to the largest element.
     }
 }
